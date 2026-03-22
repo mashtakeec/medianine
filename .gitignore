@@ -1,0 +1,21 @@
+node_modules/
+out/
+build/
+dist/
+
+# 素材ファイル（重いのでgit管理しない）
+*.mp4
+*.mp3
+*.wav
+*.mov
+*.avi
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 旧プロジェクト（分割済み）
+remotion-project/
+
+# 別リポ
+superpowers/

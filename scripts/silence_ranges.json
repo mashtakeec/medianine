@@ -1,0 +1,22 @@
+{
+  "source": "background_audio.mp3",
+  "settings": {
+    "noise_threshold": "-30dB",
+    "min_silence_duration": 0.5
+  },
+  "silence_ranges": [
+    { "start": 2.84, "end": 3.441, "duration": 0.602, "type": "silence" },
+    { "start": 5.011, "end": 5.576, "duration": 0.564, "type": "silence" },
+    { "start": 6.662, "end": 7.564, "duration": 0.901, "type": "silence" },
+    { "start": 8.301, "end": 8.836, "duration": 0.535, "type": "silence" },
+    { "start": 9.646, "end": 10.174, "duration": 0.528, "type": "silence" },
+    { "start": 12.902, "end": 13.562, "duration": 0.66, "type": "silence" },
+    { "start": 14.663, "end": 15.695, "duration": 1.032, "type": "silence" },
+    { "start": 22.166, "end": 23.667, "duration": 1.501, "type": "silence" },
+    { "start": 24.354, "end": 24.964, "duration": 0.61, "type": "silence" },
+    { "start": 29.78, "end": 30.316, "duration": 0.536, "type": "silence" },
+    { "start": 31.825, "end": 32.358, "duration": 0.533, "type": "silence" },
+    { "start": 34.965, "end": 35.641, "duration": 0.676, "type": "silence" },
+    { "start": 36.354, "end": 37.87, "duration": 1.516, "type": "silence" }
+  ]
+}

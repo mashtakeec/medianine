@@ -1,0 +1,51 @@
+{
+  "fps": 60,
+  "filler_detected": 5,
+  "silence_detected": 13,
+  "total_cuts": 4,
+  "cut_ranges": [
+    {
+      "fromFrame": 38,
+      "toFrame": 220,
+      "label": "無音+フィラー (0.6s~3.7s)",
+      "startSec": 0.6399999856948853,
+      "endSec": 3.6600000858306885,
+      "types": [
+        "filler",
+        "silence"
+      ]
+    },
+    {
+      "fromFrame": 307,
+      "toFrame": 498,
+      "label": "無音+フィラー (5.1s~8.3s)",
+      "startSec": 5.119999885559082,
+      "endSec": 8.301,
+      "types": [
+        "silence",
+        "filler"
+      ]
+    },
+    {
+      "fromFrame": 774,
+      "toFrame": 916,
+      "label": "無音+フィラー (12.9s~15.3s)",
+      "startSec": 12.902,
+      "endSec": 15.260000228881836,
+      "types": [
+        "silence",
+        "filler"
+      ]
+    },
+    {
+      "fromFrame": 2197,
+      "toFrame": 2272,
+      "label": "無音 (36.6s~37.9s)",
+      "startSec": 36.619998931884766,
+      "endSec": 37.87,
+      "types": [
+        "silence"
+      ]
+    }
+  ]
+}

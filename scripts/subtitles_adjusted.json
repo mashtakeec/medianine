@@ -1,0 +1,39 @@
+{
+  "subtitles": [
+    {
+      "text": "はい、お疲れ様です。",
+      "startFrame": 0,
+      "endFrame": 126
+    },
+    {
+      "text": "動画編集がこんなに簡単になるとは思いませんでした。",
+      "startFrame": 128,
+      "endFrame": 400
+    },
+    {
+      "text": "生地を投げてこの動画を送るだけで",
+      "startFrame": 402,
+      "endFrame": 703
+    },
+    {
+      "text": "無駄なカットもしてもらったりでき",
+      "startFrame": 703,
+      "endFrame": 1003
+    },
+    {
+      "text": "るようになったらいいなと思ってて",
+      "startFrame": 1003,
+      "endFrame": 1304
+    },
+    {
+      "text": "てあとテロップが下に入る感じに",
+      "startFrame": 1304,
+      "endFrame": 1472
+    },
+    {
+      "text": "なったらいいかなと思ってます。",
+      "startFrame": 1472,
+      "endFrame": 1684
+    }
+  ]
+}
