@@ -1,4 +1,4 @@
-import { AbsoluteFill, Audio, interpolate, staticFile, useCurrentFrame, Easing } from "remotion";
+import { AbsoluteFill, Audio, interpolate, staticFile, useCurrentFrame, Easing, Sequence } from "remotion";
 import { z } from "zod";
 
 export const phoneSchema = z.object({});
@@ -307,12 +307,17 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
       }}
     >
       {/* BGM */}
-      <Audio src={staticFile("Tropical 地球.mp3")} volume={1} />
+      <Sequence name="🔊 BGM" layout="none">
+        <Audio src={staticFile("Tropical 地球.mp3")} volume={1} />
+      </Sequence>
 
       {/* [1] BgTypography（全画面背景の巨大文字） */}
-      <BgTypography word={currentScene.word} frame={frame} sceneProgress={sceneProgress} />
+      <Sequence name="🔠 背景巨大タイポグラフィ" layout="none">
+        <BgTypography word={currentScene.word} frame={frame} sceneProgress={sceneProgress} />
+      </Sequence>
 
       {/* === [3][4][5] 左側：演出・メッセージエリア === */}
+      <Sequence name="💬 左側メッセージ" layout="none">
       <div
         style={{
           position: "absolute",
@@ -325,6 +330,7 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
         }}
       >
         {/* [3] 左キーワード */}
+        <Sequence name="  🔑 左キーワード" layout="none">
         <div
           style={{
             transform: `translateY(${leftY}px)`,
@@ -348,7 +354,9 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             </div>
           ))}
         </div>
+        </Sequence>
 
+        <Sequence name="  📄 サブテキスト＆装飾" layout="none">
         <div style={{ display: "flex", flexDirection: "column", gap: 16 }}>
           {/* [4] 左サブテキスト */}
           {subtext && (
@@ -376,8 +384,10 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             }}
           />
         </div>
+        </Sequence>
 
         {/* システムバージョンテキスト */}
+        <Sequence name="  💻 システムバージョン" layout="none">
         <div style={{ paddingTop: 48, opacity: metaOpacity }}>
           <div
             style={{
@@ -402,9 +412,12 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             Voltage Noir Protocol Active
           </div>
         </div>
+        </Sequence>
       </div>
+      </Sequence>
 
       {/* === [6] スマホコンテナ（右側） === */}
+      <Sequence name="📱 スマホUI" layout="none">
       <div
         style={{
           width: 450,
@@ -424,9 +437,12 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
         }}
       >
         {/* [10] GeometricShapes */}
-        <GeometricShapes frame={frame} sceneProgress={sceneProgress} />
+        <Sequence name="  💠 幾何学アニメーション" layout="none">
+          <GeometricShapes frame={frame} sceneProgress={sceneProgress} />
+        </Sequence>
 
         {/* [7] ステータスバー */}
+        <Sequence name="  🔋 ステータスバー" layout="none">
         <div
           style={{
             padding: "16px 32px",
@@ -469,6 +485,7 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             </div>
           </div>
         </div>
+        </Sequence>
 
         {/* スマホ内メインコンテンツ */}
         <div
@@ -484,6 +501,7 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
           }}
         >
           {/* [8] KineticWord (スマホ内) */}
+          <Sequence name="  📝 スマホ内テキスト" layout="none">
           <div
             style={{
               textAlign: "center",
@@ -540,8 +558,10 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
               ))}
             </div>
           </div>
+          </Sequence>
 
           {/* CTA ボタン */}
+          <Sequence name="  🔘 CTAボタン" layout="none">
           <div
             style={{
               marginTop: 64,
@@ -575,12 +595,16 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
               <span style={{ color: "#000000", fontSize: 24, fontWeight: 700 }}>→</span>
             </div>
           </div>
+          </Sequence>
         </div>
 
         {/* [11] ProgressBar */}
-        <ProgressBar frame={frame} />
+        <Sequence name="  ⏳ プログレスバー" layout="none">
+          <ProgressBar frame={frame} />
+        </Sequence>
 
         {/* [12] ホームインジケーター */}
+        <Sequence name="  ➖ ホームインジケーター" layout="none">
         <div
           style={{
             display: "flex",
@@ -598,9 +622,12 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             }}
           />
         </div>
+        </Sequence>
       </div>
+      </Sequence>
 
       {/* === 左下メタ情報 === */}
+      <Sequence name="ℹ️ 左下メタ情報" layout="none">
       <div
         style={{
           position: "absolute",
@@ -647,8 +674,10 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
           </span>
         </div>
       </div>
+      </Sequence>
 
       {/* テクスチャオーバーレイ */}
+      <Sequence name="✨ テクスチャオーバーレイ" layout="none">
       <div
         style={{
           position: "absolute",
@@ -659,6 +688,7 @@ export const PhoneTemplate: React.FC<z.infer<typeof phoneSchema>> = () => {
             "repeating-linear-gradient(0deg, rgba(255,255,255,0.1) 0px, rgba(255,255,255,0.1) 1px, transparent 1px, transparent 4px)",
         }}
       />
+      </Sequence>
     </AbsoluteFill>
   );
 };
