@@ -3,6 +3,9 @@ import { Composition } from "remotion";
 import { MyComposition, compositionSchema } from "./templates/news/NewsTemplate";
 import { PokerShortsTemplate, pokerShortsSchema } from "./templates/poker/PokerShortsTemplate";
 import { PhoneTemplate, phoneSchema } from "./templates/phone/PhoneTemplate";
+import { TrainingTemplate } from "./templates/training/TrainingTemplate";
+import { trainingSchema } from "./templates/training/schema";
+import timelineData from "./data/timeline.json";
 
 const ORIGINAL_DURATION = 2270;
 
@@ -29,6 +32,18 @@ const SUBTITLES = [
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="TrainingVideo"
+        component={TrainingTemplate}
+        durationInFrames={timelineData.totalDurationFrames}
+        fps={60}
+        width={1920}
+        height={1080}
+        schema={trainingSchema}
+        defaultProps={{
+          showSubtitles: false,
+        }}
+      />
       <Composition
         id="PhoneUI"
         component={PhoneTemplate}

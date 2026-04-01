@@ -1,0 +1,304 @@
+{
+  "P01": [
+    {
+      "selector": ".title-ja",
+      "label": "メインタイトル"
+    },
+    {
+      "selector": ".subtitle",
+      "label": "サブタイトル"
+    },
+    {
+      "selector": ".title-en",
+      "label": "英語タイトル"
+    }
+  ],
+  "P02": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".cards-area > :nth-child(1)",
+      "label": "STEP 01 知識インプット"
+    },
+    {
+      "selector": ".cards-area > :nth-child(3)",
+      "label": "STEP 02 制作スキル"
+    },
+    {
+      "selector": ".cards-area > :nth-child(5)",
+      "label": "STEP 03 案件獲得"
+    },
+    {
+      "selector": ".goal-banner",
+      "label": "ゴールバナー"
+    }
+  ],
+  "P03": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".phases .phase-col.ph1",
+      "label": "PHASE 01"
+    },
+    {
+      "selector": ".phases .phase-col.ph2",
+      "label": "PHASE 02"
+    },
+    {
+      "selector": ".phases .phase-col.ph3",
+      "label": "PHASE 03"
+    },
+    {
+      "selector": ".phases .phase-col.ph4",
+      "label": "PHASE 04"
+    },
+    {
+      "selector": ".goal-banner",
+      "label": "ゴールバナー"
+    }
+  ],
+  "P04": [
+    {
+      "selector": ".left-panel",
+      "label": "PHASE 1 タイトル"
+    },
+    {
+      "selector": ".right-panel .right-heading",
+      "label": "THIS PHASE COVERS"
+    },
+    {
+      "selector": ".right-panel > :nth-child(2)",
+      "label": "ポイント01"
+    },
+    {
+      "selector": ".right-panel > :nth-child(3)",
+      "label": "ポイント02"
+    },
+    {
+      "selector": ".right-panel > :nth-child(4)",
+      "label": "ポイント03"
+    },
+    {
+      "selector": ".right-panel > :nth-child(5)",
+      "label": "ポイント04"
+    }
+  ],
+  "P05": [
+    {
+      "selector": ".title-ja",
+      "label": "章タイトル"
+    },
+    {
+      "selector": ".subtitle",
+      "label": "サブタイトル"
+    }
+  ],
+  "P06": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area > :nth-child(1)",
+      "label": "項目1 市場の現状"
+    },
+    {
+      "selector": ".content-area > :nth-child(2)",
+      "label": "項目2 単価・相場"
+    },
+    {
+      "selector": ".content-area > :nth-child(3)",
+      "label": "項目3 収益ロードマップ"
+    },
+    {
+      "selector": ".content-area > :nth-child(4)",
+      "label": "項目4 作業時間"
+    },
+    {
+      "selector": ".content-area > :nth-child(5)",
+      "label": "項目5 心構え"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P07": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area > :nth-child(1)",
+      "label": "理由01 動画投稿本数の増加"
+    },
+    {
+      "selector": ".content-area > :nth-child(2)",
+      "label": "理由02 外注文化の拡大"
+    },
+    {
+      "selector": ".content-area > :nth-child(3)",
+      "label": "理由03 AI活用"
+    },
+    {
+      "selector": ".summary-banner",
+      "label": "まとめバナー"
+    }
+  ],
+  "P08": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".cards-area > :nth-child(1)",
+      "label": "スカッと系"
+    },
+    {
+      "selector": ".cards-area > :nth-child(2)",
+      "label": "ゆっくり解説"
+    },
+    {
+      "selector": ".cards-area > :nth-child(3)",
+      "label": "一人語り"
+    },
+    {
+      "selector": ".bottom-banner",
+      "label": "バナー"
+    }
+  ],
+  "P09": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "単価カード"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "文字単価比較チャート"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P10": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area > :nth-child(1)",
+      "label": "STEP 01 実績をつくる"
+    },
+    {
+      "selector": ".content-area > :nth-child(3)",
+      "label": "STEP 02 型を身につける"
+    },
+    {
+      "selector": ".content-area > :nth-child(5)",
+      "label": "STEP 03 単価を上げる"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P11": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "作業時間の比較"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "1日の作業ペース"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P12": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "同時受注の考え方"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "管理のポイント"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P13": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "AIへの誤解と現実"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "落選・修正への向き合い方"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P14": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "提出恐怖症の症状"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "対処法"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P15": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area .left-col",
+      "label": "KEY POINTS"
+    },
+    {
+      "selector": ".content-area .right-col",
+      "label": "CHAPTER SUMMARY"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ]
+}

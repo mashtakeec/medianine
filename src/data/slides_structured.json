@@ -1,0 +1,435 @@
+[
+  {
+    "id": "P01",
+    "slideNumber": 1,
+    "title": "表紙",
+    "chapter": null,
+    "phase": 1,
+    "type": "cover",
+    "data": {
+      "titleJa": "AIライティングで\n      YouTube台本案件を\n      獲得する",
+      "titleEn": "YouTube Script Writing",
+      "subtitle": "NotebookLM ＋ Gemini を活用して\n      クラウドソーシングで月5万〜10万円を目指す",
+      "badge": "Ai-BOW AI School 2026"
+    }
+  },
+  {
+    "id": "P02",
+    "slideNumber": 2,
+    "title": "このスクールで目指すゴール",
+    "chapter": null,
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "このスクールで目指すゴール",
+      "slideSubtitle": "3つのフェーズで確実にステップアップ",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [
+        {
+          "stepNum": "1",
+          "title": "知識インプット",
+          "desc": "YouTube台本市場を理解し、3ジャンルの構成パターンを習得する",
+          "icon": null
+        },
+        {
+          "stepNum": "2",
+          "title": "制作スキル習得",
+          "desc": "NotebookLM ＋ Gemini を使って高品質な台本を効率的に作れるようになる",
+          "icon": null
+        },
+        {
+          "stepNum": "3",
+          "title": "案件獲得 → 収益化",
+          "desc": "クラウドソーシングで初受注→継続案件→月5万〜10万円を達成する",
+          "icon": null
+        }
+      ],
+      "leftCol": null,
+      "rightCol": null,
+      "leftColText": null,
+      "rightColText": null,
+      "contentBlocks": [],
+      "footerText": "",
+      "footerRight": "",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P03",
+    "slideNumber": 3,
+    "title": "カリキュラム全体マップ",
+    "chapter": null,
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "カリキュラム全体マップ",
+      "slideSubtitle": "4つのPHASEで初受注から月10万円を目指す",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": null,
+      "rightCol": null,
+      "leftColText": null,
+      "rightColText": null,
+      "contentBlocks": [],
+      "footerText": "",
+      "footerRight": "",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P04",
+    "slideNumber": 4,
+    "title": "PHASE 1 区切り",
+    "chapter": null,
+    "phase": 1,
+    "type": "phase-divider",
+    "data": {
+      "phaseNum": "1",
+      "phaseTitle": "知識インプット",
+      "pointCards": [
+        {
+          "title": "市場・単価・収益の現実を知る",
+          "desc": "初心者が狙える3ジャンル・相場・収益ロードマップを把握する",
+          "items": []
+        },
+        {
+          "title": "台本の3大パーツを理解する",
+          "desc": "冒頭フック・本文・エンディングの役割と構造を習得する",
+          "items": []
+        },
+        {
+          "title": "3ジャンルの書き分け方を学ぶ",
+          "desc": "スカッと系・ゆっくり解説・一人語りの構成パターンを理解する",
+          "items": []
+        },
+        {
+          "title": "AIライターとしての心構え",
+          "desc": "落選・修正を成長材料として受け止める考え方を身につける",
+          "items": []
+        }
+      ],
+      "lessonItems": [
+        "LESSON 1YouTube台本市場とAIライターの可能性",
+        "LESSON 2YouTube台本の構造と3ジャンルを完全理解する"
+      ]
+    }
+  },
+  {
+    "id": "P05",
+    "slideNumber": 5,
+    "title": "LESSON 1 章タイトル",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "lesson-title",
+    "data": {
+      "titleJa": "YouTube台本市場と\n      AIライターの可能性",
+      "titleEn": "Lesson 01 ／ Phase 01",
+      "subtitle": "市場の現状・単価相場・収益ロードマップ・\n      作業時間の現実・心構えを学びます。\n      理想ではなく現実を先に知ることで、\n      無理のないスタート地点を決められます。",
+      "badge": "Ai-BOW AI School 2026",
+      "lessonNum": ""
+    }
+  },
+  {
+    "id": "P06",
+    "slideNumber": 6,
+    "title": "この章で学ぶこと（NEW）",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "learning-objectives",
+    "data": {
+      "slideTitle": "この章で学ぶこと",
+      "slideSubtitle": "LESSON 1　YouTube台本市場とAIライターの可能性",
+      "items": [
+        {
+          "num": "01THEME",
+          "theme": "市場の現状",
+          "desc": "YouTube台本需要がなぜ増えているかを理解する",
+          "icon": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M13.4400 8.0000v9.2800h-2.8800l5.4400 5.44005.4400 -5.4400h-2.8800v-9.2800z\" fill=\"#C8232C\"></path><circle cx=\"16.0000\" cy=\"5.4400\" r=\"2.8800\" fill=\"#C8232C\"></circle><path d=\"M5.4400 25.2800h21.4400\" stroke=\"#C8232C\" stroke-width=\"2.2400\" stroke-linecap=\"round\"></path></svg>"
+        },
+        {
+          "num": "02THEME",
+          "theme": "単価・相場",
+          "desc": "初心者が現実的に狙える単価帯を把握する",
+          "icon": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.4000 25.2800v-8.0000h3.2000v8.0000zM12.1600 25.2800v-13.4400h3.2000v13.4400zM17.6000 25.2800v-10.5600h3.2000v10.5600zM22.7200 25.2800v-17.2800h3.2000v17.2800z\" fill=\"#C8232C\"></path><path d=\"M3.8400 25.2800h24.0000\" stroke=\"#C8232C\" stroke-width=\"1.9200\" stroke-linecap=\"round\"></path><path d=\"M8.0000 13.4400l5.4400 -2.56005.4400 5.44005.4400 -5.4400\" stroke=\"#C8232C\" stroke-width=\"2.2400\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path></svg>"
+        },
+        {
+          "num": "03THEME",
+          "theme": "収益ロードマップ",
+          "desc": "初期→中期→安定の段階的な収益モデルを知る",
+          "icon": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M5.4400 25.2800l8.0000 -18.56008.0000 9.28005.4400 -13.4400\" stroke=\"#C8232C\" stroke-width=\"2.5600\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"></path><circle cx=\"5.4400\" cy=\"25.2800\" r=\"2.2400\" fill=\"#C8232C\"></circle><circle cx=\"13.4400\" cy=\"6.7200\" r=\"2.2400\" fill=\"#C8232C\"></circle><circle cx=\"21.4400\" cy=\"16.0000\" r=\"2.2400\" fill=\"#C8232C\"></circle><circle cx=\"26.5600\" cy=\"9.2800\" r=\"2.2400\" fill=\"#C8232C\"></circle></svg>"
+        },
+        {
+          "num": "04THEME",
+          "theme": "作業時間の現実",
+          "desc": "1本あたりの時間と同時受注の限界を理解する",
+          "icon": null
+        },
+        {
+          "num": "05THEME",
+          "theme": "心構え",
+          "desc": "落選・修正を成長材料として受け止める考え方を身につける",
+          "icon": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 32 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M16.0000 5.4400v9.2800\" stroke=\"#C8232C\" stroke-width=\"2.8800\" stroke-linecap=\"round\"></path><path d=\"M9.2800 8.0000a9.2800 9.2800 0 1 0 13.4400 0\" stroke=\"#C8232C\" stroke-width=\"2.8800\" stroke-linecap=\"round\" fill=\"none\"></path></svg>"
+        }
+      ],
+      "footerText": "市場・相場・ロードマップ・作業時間・心構え　5つのテーマを習得する",
+      "footerRight": "LESSON 1 ／ PHASE 01"
+    }
+  },
+  {
+    "id": "P07",
+    "slideNumber": 7,
+    "title": "YouTube台本市場の現状",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "YouTube台本市場の現状",
+      "slideSubtitle": "なぜ今、YouTube台本の需要が増えているのか",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": null,
+      "rightCol": null,
+      "leftColText": null,
+      "rightColText": null,
+      "contentBlocks": [
+        {
+          "className": "reason-card",
+          "html": "\n      <div class=\"card-num\">\n        <span class=\"card-num-text\">01</span>\n        <span class=\"card-num-label\">REASON</span>\n      </div>\n      <div class=\"card-icon\">\n        <svg width=\"36\" height=\"36\" viewBox=\"0 0 36 36\" fill=\"none\">\n          <rect x=\"4\" y=\"8\" width=\"28\" height=\"20\" rx=\"3\" stroke=\"#C8232C\" stroke-width=\"1.5\"></rect>\n          <path d=\"M14 14l8 4-8 4V14z\" fill=\"url(#svggrad-C8232C)\"></path>\n          <circle cx=\"29\" cy=\"7\" r=\"5\" fill=\"url(#svggrad-C8232C)\"></circle>\n\n        </svg>\n      </div>\n      <div class=\"card-body\">\n        <div class=\"card-heading\">動画投稿本数の増加</div>\n        <div class=\"card-desc\">YouTubeチャンネル数・投稿本数は年々増加。台本を必要とする運営者が増え続けている。</div>\n      </div>\n      <div class=\"card-tag\">\n        <span class=\"tag-pill\">需要拡大中</span>\n      </div>\n    ",
+          "text": "01\n        REASON\n      \n      \n        \n          \n          \n          \n\n        \n      \n      \n        動画投稿本数の増加\n        YouTubeチャンネル数・投稿本数は年々増加。台本を必要とする運営者が増え続けている。\n      \n      \n        需要拡大中"
+        },
+        {
+          "className": "reason-card",
+          "html": "\n      <div class=\"card-num\">\n        <span class=\"card-num-text\">02</span>\n        <span class=\"card-num-label\">REASON</span>\n      </div>\n      <div class=\"card-icon\">\n        <svg width=\"36\" height=\"36\" viewBox=\"0 0 36 36\" fill=\"none\">\n          <circle cx=\"13\" cy=\"13\" r=\"7\" stroke=\"#3D3D3D\" stroke-width=\"1.5\"></circle>\n          <circle cx=\"23\" cy=\"23\" r=\"7\" stroke=\"#3D3D3D\" stroke-width=\"1.5\"></circle>\n          <line x1=\"18\" y1=\"18\" x2=\"22\" y2=\"14\" stroke=\"#C8232C\" stroke-width=\"1.5\" stroke-dasharray=\"2 2\"></line>\n          <circle cx=\"13\" cy=\"13\" r=\"2\" fill=\"url(#svggrad-C8232C)\"></circle>\n          <circle cx=\"23\" cy=\"23\" r=\"2\" fill=\"url(#svggrad-C8232C)\"></circle>\n        </svg>\n      </div>\n      <div class=\"card-body\">\n        <div class=\"card-heading\">外注文化の拡大</div>\n        <div class=\"card-desc\">チャンネル運営者が台本・編集・サムネを分業化。専門ライターへの需要が高まっている。</div>\n      </div>\n      <div class=\"card-tag\">\n        <span class=\"tag-pill\">分業が主流</span>\n      </div>\n    ",
+          "text": "02\n        REASON\n      \n      \n        \n          \n          \n          \n          \n          \n        \n      \n      \n        外注文化の拡大\n        チャンネル運営者が台本・編集・サムネを分業化。専門ライターへの需要が高まっている。\n      \n      \n        分業が主流"
+        },
+        {
+          "className": "reason-card",
+          "html": "\n      <div class=\"card-num\">\n        <span class=\"card-num-text\">03</span>\n        <span class=\"card-num-label\">REASON</span>\n      </div>\n      <div class=\"card-icon\">\n        <svg width=\"36\" height=\"36\" viewBox=\"0 0 36 36\" fill=\"none\">\n          <rect x=\"8\" y=\"14\" width=\"8\" height=\"14\" rx=\"2\" fill=\"#E2E2E2\"></rect>\n          <rect x=\"14\" y=\"10\" width=\"8\" height=\"18\" rx=\"2\" fill=\"url(#svggrad-ADADAD)\"></rect>\n          <rect x=\"20\" y=\"6\" width=\"8\" height=\"22\" rx=\"2\" fill=\"url(#svggrad-C8232C)\"></rect>\n          <path d=\"M10 22 L18 16 L26 10\" stroke=\"#1A1A1A\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\"></path>\n          <circle cx=\"26\" cy=\"10\" r=\"2\" fill=\"url(#svggrad-1A1A1A)\"></circle>\n        </svg>\n      </div>\n      <div class=\"card-body\">\n        <div class=\"card-heading\">AI活用でコスト最適化</div>\n        <div class=\"card-desc\">AIと組み合わせることで、従来より低コストで高品質な台本を提供できるようになった。</div>\n      </div>\n      <div class=\"card-tag\">\n        <span class=\"tag-pill\">AIで効率UP</span>\n      </div>\n    ",
+          "text": "03\n        REASON\n      \n      \n        \n          \n          \n          \n          \n          \n        \n      \n      \n        AI活用でコスト最適化\n        AIと組み合わせることで、従来より低コストで高品質な台本を提供できるようになった。\n      \n      \n        AIで効率UP"
+        }
+      ],
+      "footerText": "",
+      "footerRight": "",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P08",
+    "slideNumber": 8,
+    "title": "初心者が狙いやすい3ジャンル",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "初心者が狙いやすい3ジャンル",
+      "slideSubtitle": "まずはこの3つから選んでスタートする",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [
+        {
+          "stepNum": "",
+          "title": "",
+          "desc": "職場いじめ・嫁姑問題・理不尽な上司など。初心者でも応募しやすく需要が最も高い。",
+          "icon": null
+        },
+        {
+          "stepNum": "",
+          "title": "",
+          "desc": "霊夢・魔理沙の掛け合い形式。案件数が多く初受注につながりやすい人気ジャンル。",
+          "icon": null
+        },
+        {
+          "stepNum": "",
+          "title": "",
+          "desc": "語りかけ口調のノウハウ解説。継続案件や高単価につながりやすいジャンル。",
+          "icon": null
+        }
+      ],
+      "leftCol": null,
+      "rightCol": null,
+      "leftColText": null,
+      "rightColText": null,
+      "contentBlocks": [],
+      "footerText": "まずは1ジャンルに集中して実績を作る。得意ジャンルを深める方が継続案件につながりやすい",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": "<svg width=\"14\" height=\"14\" viewBox=\"0 0 14 14\" fill=\"none\">\n        <path d=\"M7 1l1.5 3 3.5.5-2.5 2.5.5 3.5L7 9l-3 1.5.5-3.5L2 4.5 5.5 4 7 1z\" fill=\"white\"></path>\n      </svg>"
+    }
+  },
+  {
+    "id": "P09",
+    "slideNumber": 9,
+    "title": "単価・相場の実態",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "単価・相場の実態",
+      "slideSubtitle": "初心者が現実的に狙える単価帯を把握する",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": "\n\n      <div class=\"price-card\">\n        <div class=\"price-card-accent red\"></div>\n        <div class=\"price-card-body\">\n          <div>\n            <div class=\"price-card-label\">ショート動画台本（2分以内）×5本</div>\n            <div class=\"price-card-sub\">スカッと系・ゆっくり解説など</div>\n          </div>\n          <div class=\"price-card-value\">10,000円〜</div>\n        </div>\n      </div>\n\n      <div class=\"price-card\">\n        <div class=\"price-card-accent dark\"></div>\n        <div class=\"price-card-body\">\n          <div>\n            <div class=\"price-card-label\">長尺動画台本（10分程度）×5本</div>\n            <div class=\"price-card-sub\">一人語り・解説系など</div>\n          </div>\n          <div class=\"price-card-value\">15,000円〜</div>\n        </div>\n      </div>\n\n      <div class=\"price-card\">\n        <div class=\"price-card-accent\"></div>\n        <div class=\"price-card-body\">\n          <div>\n            <div class=\"price-card-label\">文字単価相場（一般的な目安）</div>\n            <div class=\"price-card-sub\">ジャンル・実績・クライアントによる</div>\n          </div>\n          <div class=\"price-card-value\">0.3〜1円 / 文字</div>\n        </div>\n      </div>\n\n      <div class=\"price-card\">\n        <div class=\"price-card-accent red\"></div>\n        <div class=\"price-card-body\">\n          <div>\n            <div class=\"price-card-label\">初心者が最初に狙う文字単価</div>\n            <div class=\"price-card-sub\">まず実績を作ることが最優先</div>\n          </div>\n          <div class=\"price-card-value\">0.2〜0.5円 / 文字</div>\n        </div>\n      </div>\n\n    ",
+      "rightCol": "\n      <div class=\"right-heading\">文字単価比較（ジャンル別）</div>\n\n      <div class=\"bar-row\">\n        <div class=\"bar-label-row\">\n          <span class=\"bar-genre\">スカッと系</span>\n          <span class=\"bar-range\">0.3〜0.8円</span>\n        </div>\n        <div class=\"bar-track\">\n          <div class=\"bar-fill red\" style=\"width: 65%\"></div>\n        </div>\n      </div>\n\n      <div class=\"bar-row\">\n        <div class=\"bar-label-row\">\n          <span class=\"bar-genre\">ゆっくり解説</span>\n          <span class=\"bar-range\">0.3〜0.5円</span>\n        </div>\n        <div class=\"bar-track\">\n          <div class=\"bar-fill red\" style=\"width: 45%\"></div>\n        </div>\n      </div>\n\n      <div class=\"bar-row\">\n        <div class=\"bar-label-row\">\n          <span class=\"bar-genre\">一人語り</span>\n          <span class=\"bar-range\">0.5〜1円+</span>\n        </div>\n        <div class=\"bar-track\">\n          <div class=\"bar-fill red\" style=\"width: 90%\"></div>\n        </div>\n      </div>\n\n      <div class=\"bar-row\">\n        <div class=\"bar-label-row\">\n          <span class=\"bar-genre\" style=\"color: var(--gray-mid);\">初心者目安</span>\n          <span class=\"bar-range\">0.2〜0.5円</span>\n        </div>\n        <div class=\"bar-track\">\n          <div class=\"bar-fill\" style=\"width: 38%; background: linear-gradient(135deg, #C8232C 0%, #E03040 100%);\"></div>\n        </div>\n      </div>\n\n      <div class=\"target-box\">\n        <div class=\"target-label\">最初の目標単価</div>\n        <div class=\"target-value\">0.3〜0.5円</div>\n        <div class=\"target-desc\">まず実績5件 → 単価交渉へ</div>\n      </div>\n    ",
+      "leftColText": "ショート動画台本（2分以内）×5本\n            スカッと系・ゆっくり解説など\n          \n          10,000円〜\n        \n      \n\n      \n        \n        \n          \n            長尺動画台本（10分程度）×5本\n            一人語り・解説系など\n          \n          15,000円〜\n        \n      \n\n      \n        \n        \n          \n            文字単価相場（一般的な目安）\n            ジャンル・実績・クライアントによる\n          \n          0.3〜1円 / 文字\n        \n      \n\n      \n        \n        \n          \n            初心者が最初に狙う文字単価\n            まず実績を作ることが最優先\n          \n          0.2〜0.5円 / 文字",
+      "rightColText": "文字単価比較（ジャンル別）\n\n      \n        \n          スカッと系\n          0.3〜0.8円\n        \n        \n          \n        \n      \n\n      \n        \n          ゆっくり解説\n          0.3〜0.5円\n        \n        \n          \n        \n      \n\n      \n        \n          一人語り\n          0.5〜1円+\n        \n        \n          \n        \n      \n\n      \n        \n          初心者目安\n          0.2〜0.5円\n        \n        \n          \n        \n      \n\n      \n        最初の目標単価\n        0.3〜0.5円\n        まず実績5件 → 単価交渉へ",
+      "contentBlocks": [],
+      "footerText": "最初から高単価を狙わない。低単価で実績を作り→評価を積み→単価UPが最速ルート",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P10",
+    "slideNumber": 10,
+    "title": "収益ロードマップ",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "収益ロードマップ",
+      "slideSubtitle": "3段階で着実に収益を伸ばしていく",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": null,
+      "rightCol": null,
+      "leftColText": null,
+      "rightColText": null,
+      "contentBlocks": [
+        {
+          "className": "col col-a",
+          "html": "\n      <div class=\"col-head\">\n        <div class=\"col-step\">STEP 01 · 初期</div>\n        <div class=\"col-name\">実績をつくる</div>\n      </div>\n      <div class=\"col-body\">\n        <div class=\"calc-label\">文字単価</div>\n        <div class=\"calc-price\">0.3〜0.5円</div>\n        <div class=\"calc-detail\">× 5,000字 × 月5本<br>× 2社</div>\n        <div class=\"col-income\">\n          <div class=\"income-amt\">月1.5〜2.5万円</div>\n          <div class=\"income-note\">まず「稼げる」を体感する</div>\n        </div>\n      </div>\n    ",
+          "text": "STEP 01 · 初期\n        実績をつくる\n      \n      \n        文字単価\n        0.3〜0.5円\n        × 5,000字 × 月5本× 2社\n        \n          月1.5〜2.5万円\n          まず「稼げる」を体感する"
+        },
+        {
+          "className": "col col-b",
+          "html": "\n      <div class=\"col-head\">\n        <div class=\"col-step\">STEP 02 · 中期</div>\n        <div class=\"col-name\">型を身につける</div>\n      </div>\n      <div class=\"col-body\">\n        <div class=\"calc-label\">文字単価</div>\n        <div class=\"calc-price\">0.5円</div>\n        <div class=\"calc-detail\">× 10,000字 × 月5本<br>× 2社</div>\n        <div class=\"col-income\">\n          <div class=\"income-amt\">月5万円</div>\n          <div class=\"income-note\">継続案件で安定収入を目指す</div>\n        </div>\n      </div>\n    ",
+          "text": "STEP 02 · 中期\n        型を身につける\n      \n      \n        文字単価\n        0.5円\n        × 10,000字 × 月5本× 2社\n        \n          月5万円\n          継続案件で安定収入を目指す"
+        },
+        {
+          "className": "col col-c",
+          "html": "\n      <div class=\"col-head\">\n        <div class=\"col-step\">STEP 03 · 安定</div>\n        <div class=\"col-name\">単価を上げる</div>\n      </div>\n      <div class=\"col-body\">\n        <div class=\"calc-label\">文字単価</div>\n        <div class=\"calc-price\">1円</div>\n        <div class=\"calc-detail\">× 10,000字 × 月5本<br>× 2社</div>\n        <div class=\"col-income\">\n          <div class=\"income-amt\">月10万円以上</div>\n          <div class=\"income-note\">提案力＋AI活用で高単価へ</div>\n        </div>\n      </div>\n    ",
+          "text": "STEP 03 · 安定\n        単価を上げる\n      \n      \n        文字単価\n        1円\n        × 10,000字 × 月5本× 2社\n        \n          月10万円以上\n          提案力＋AI活用で高単価へ"
+        }
+      ],
+      "footerText": "最初は低単価でも実績作りを優先する。信頼と実績が整ってから単価を上げる。",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P11",
+    "slideNumber": 11,
+    "title": "作業時間の現実",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "作業時間の現実",
+      "slideSubtitle": "1本あたりにかかる時間と、短縮できる理由",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": "\n      <div class=\"time-row\">\n        <div class=\"time-card before\">\n          <div class=\"time-card-head\">\n            <div class=\"time-label\">最初のうち</div>\n            <div class=\"time-num\">6〜8</div>\n            <div class=\"time-unit\">時間 / 1本</div>\n          </div>\n          <div class=\"time-card-body\">\n            <div class=\"time-note\">普通です。焦らなくて大丈夫。</div>\n          </div>\n        </div>\n        <div class=\"arrow-mid\">\n          <svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\">\n            <path d=\"M5 12H19M14 7L19 12L14 17\" stroke=\"#C8232C\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n          </svg>\n        </div>\n        <div class=\"time-card after\">\n          <div class=\"time-card-head\">\n            <div class=\"time-label\">慣れてくると</div>\n            <div class=\"time-num\">2〜3</div>\n            <div class=\"time-unit\">時間 / 1本</div>\n          </div>\n          <div class=\"time-card-body\">\n            <div class=\"time-note\">型とAIで大幅短縮できる。</div>\n          </div>\n        </div>\n      </div>\n      <div class=\"reason-card\">\n        <div class=\"reason-head\">\n          <div class=\"reason-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 2C5.24 2 3 4.24 3 7c0 1.86 1.04 3.48 2.56 4.36V13h4.88V11.36C11.96 10.48 13 8.86 13 7c0-2.76-2.24-5-5-5z\" stroke=\"#3D3D3D\" stroke-width=\"1.4\"></path>\n              <path d=\"M6 13h4M6.5 13v1.5h3V13\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"reason-head-title\">短縮できる2つの理由</div>\n        </div>\n        <div class=\"reason-body\">\n          <!-- ★ 改行表示 -->\n          <div class=\"ri\">\n            <div class=\"ri-label\">Gemini活用：</div>\n            <div class=\"ri-desc\">リサーチ・プロット・本文を分業化することで大幅に効率UP</div>\n          </div>\n          <div class=\"ri\">\n            <div class=\"ri-label\">型の習得：</div>\n            <div class=\"ri-desc\">ジャンル別テンプレートが完成するとゼロから考える時間がなくなる</div>\n          </div>\n        </div>\n      </div>\n    ",
+      "rightCol": "\n      <div class=\"day-card\">\n        <div class=\"day-head\">\n          <div class=\"day-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <rect x=\"2\" y=\"3\" width=\"12\" height=\"11\" rx=\"2\" stroke=\"#3D3D3D\" stroke-width=\"1.4\"></rect>\n              <path d=\"M5 1.5V4M11 1.5V4M2 6.5H14\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"day-head-title\">1日の作業時間モデル</div>\n        </div>\n        <div class=\"day-body\">\n          <div class=\"day-row\">\n            <div class=\"day-lbl\">平日</div>\n            <div class=\"day-bar-bg\"><div class=\"day-bar-fill\" style=\"width:50%\"></div></div>\n            <div class=\"day-val\">1.5h</div>\n          </div>\n          <div class=\"day-row\">\n            <div class=\"day-lbl\">休日</div>\n            <div class=\"day-bar-bg\"><div class=\"day-bar-fill\" style=\"width:100%\"></div></div>\n            <div class=\"day-val\">3h</div>\n          </div>\n        </div>\n      </div>\n      <div class=\"point-card\">\n        <div class=\"point-head\">\n          <div class=\"point-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 2L9.5 6H14L10.5 8.5L12 13L8 10.5L4 13L5.5 8.5L2 6H6.5L8 2Z\" stroke=\"#C8232C\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"point-head-title\">覚えておくべき3つのこと</div>\n        </div>\n        <div class=\"point-body\">\n          <!-- ★ 番号縦中央・文字大きく・2行 -->\n          <div class=\"pi\">\n            <div class=\"pi-num\">01</div>\n            <div class=\"pi-text\">最初の1本が一番時間がかかる。<br>2本目から少しずつ速くなる。</div>\n          </div>\n          <div class=\"pi\">\n            <div class=\"pi-num\">02</div>\n            <div class=\"pi-text\">時間がかかること自体が成長の証。<br>スキップできるプロセスはない。</div>\n          </div>\n          <div class=\"pi\">\n            <div class=\"pi-num\">03</div>\n            <div class=\"pi-text\">まずは「書き切る」を最優先。<br>クオリティより完成を目指す。</div>\n          </div>\n        </div>\n      </div>\n    ",
+      "leftColText": "最初のうち\n            6〜8\n            時間 / 1本\n          \n          \n            普通です。焦らなくて大丈夫。\n          \n        \n        \n          \n            \n          \n        \n        \n          \n            慣れてくると\n            2〜3\n            時間 / 1本\n          \n          \n            型とAIで大幅短縮できる。\n          \n        \n      \n      \n        \n          \n            \n              \n              \n            \n          \n          短縮できる2つの理由\n        \n        \n          \n          \n            Gemini活用：\n            リサーチ・プロット・本文を分業化することで大幅に効率UP\n          \n          \n            型の習得：\n            ジャンル別テンプレートが完成するとゼロから考える時間がなくなる",
+      "rightColText": "1日の作業時間モデル\n        \n        \n          \n            平日\n            \n            1.5h\n          \n          \n            休日\n            \n            3h\n          \n        \n      \n      \n        \n          \n            \n              \n            \n          \n          覚えておくべき3つのこと\n        \n        \n          \n          \n            01\n            最初の1本が一番時間がかかる。2本目から少しずつ速くなる。\n          \n          \n            02\n            時間がかかること自体が成長の証。スキップできるプロセスはない。\n          \n          \n            03\n            まずは「書き切る」を最優先。クオリティより完成を目指す。",
+      "contentBlocks": [],
+      "footerText": "最初は6〜8時間かかって当然。型とAIを活かして2〜3時間へ短縮していく。",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P12",
+    "slideNumber": 12,
+    "title": "同時受注の上限と管理",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "同時受注の上限と管理",
+      "slideSubtitle": "最初に抱えすぎると品質も信頼も失う",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": "\n      <div class=\"main-card\">\n        <div class=\"main-head\"><div class=\"main-head-label\">最初の同時受注の上限</div></div>\n        <div class=\"main-body\">\n          <div class=\"main-num\">1〜2</div>\n          <div class=\"main-unit\">案件まで</div>\n          <div class=\"main-desc\">品質と納期を守ることを最優先にする段階。まずはこの範囲で実績を積む。</div>\n        </div>\n      </div>\n      <div class=\"reason-card\">\n        <div class=\"card-head\">\n          <div class=\"chi\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <circle cx=\"8\" cy=\"8\" r=\"6.5\" stroke=\"#3D3D3D\" stroke-width=\"1.4\"></circle>\n              <path d=\"M8 5V8.5M8 10.5V11\" stroke=\"#3D3D3D\" stroke-width=\"1.8\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\">上限を守る理由</div>\n        </div>\n        <div class=\"card-body\">\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">1本6〜8時間かかる段階では<br>複数抱えると納期が崩壊しやすい</div></div>\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">クオリティが落ちると評価が下がり<br>継続依頼がこなくなる</div></div>\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">信頼 ＞ 本数。1社を大切にする方が<br>長期収益につながる</div></div>\n        </div>\n      </div>\n    ",
+      "rightCol": "\n      <div class=\"scale-card\">\n        <div class=\"card-head\">\n          <div class=\"chi\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <rect x=\"1.5\" y=\"10\" width=\"3\" height=\"4\" rx=\"1\" fill=\"url(#svggrad-3D3D3D)\"></rect>\n              <rect x=\"6.5\" y=\"6.5\" width=\"3\" height=\"7.5\" rx=\"1\" fill=\"url(#svggrad-3D3D3D)\"></rect>\n              <rect x=\"11.5\" y=\"2\" width=\"3\" height=\"12\" rx=\"1\" fill=\"url(#svggrad-3D3D3D)\"></rect>\n            </svg>\n          </div>\n          <div class=\"cht\">受注数と状態の目安（初期）</div>\n        </div>\n        <div class=\"card-body\">\n          <div class=\"sc-row\">\n            <div class=\"sc-lbl\">1案件</div>\n            <div class=\"sc-bg\"><div class=\"sc-fill\" style=\"width:36%;background:linear-gradient(to top right, #1A1A1A 0%, #323232 100%)\"><span>学習しながらこなせる</span></div></div>\n            <div class=\"sc-tag t-best\">BEST</div>\n          </div>\n          <div class=\"sc-row\">\n            <div class=\"sc-lbl\">2案件</div>\n            <div class=\"sc-bg\"><div class=\"sc-fill\" style=\"width:62%;background:linear-gradient(to top right, #3D3D3D 0%, #565656 100%)\"><span>スケジュール管理が必要</span></div></div>\n            <div class=\"sc-tag t-ok\">OK</div>\n          </div>\n          <div class=\"sc-row\">\n            <div class=\"sc-lbl\">3案件以上</div>\n            <div class=\"sc-bg\"><div class=\"sc-fill\" style=\"width:92%;background:linear-gradient(to top right, #C8232C 0%, #E03040 100%)\"><span>納期・品質が崩れるリスク大</span></div></div>\n            <div class=\"sc-tag t-ng\">NG</div>\n          </div>\n        </div>\n      </div>\n      <div class=\"hint-card\">\n        <div class=\"hint-head\">\n          <div class=\"hint-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 2C5.24 2 3 4.24 3 7c0 1.86 1.04 3.48 2.56 4.36V13h4.88V11.36C11.96 10.48 13 8.86 13 7c0-2.76-2.24-5-5-5z\" stroke=\"#3D3D3D\" stroke-width=\"1.4\"></path>\n              <path d=\"M6 13h4M6.5 13V14.5h3V13\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"hint-head-title\">案件管理の基本ルール</div>\n        </div>\n        <div class=\"hint-grid\">\n          <div class=\"hi\"><div class=\"hi-icon\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 14 14\" fill=\"none\"><rect x=\"2\" y=\"2\" width=\"10\" height=\"10\" rx=\"2\" stroke=\"#3D3D3D\" stroke-width=\"1.3\"></rect><path d=\"M5 1V3M9 1V3M2 5H12\" stroke=\"#3D3D3D\" stroke-width=\"1.3\" stroke-linecap=\"round\"></path></svg></div><div class=\"hi-text\"><strong>納期を先に確認</strong><br><span class=\"hi-sub\">受注前に作業日数を逆算する</span></div></div>\n          <div class=\"hi\"><div class=\"hi-icon\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 14 14\" fill=\"none\"><path d=\"M2 3.5H12M2 7H9M2 10.5H6.5\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linecap=\"round\"></path></svg></div><div class=\"hi-text\"><strong>指示書は必ず再読</strong><br><span class=\"hi-sub\">2回読んでから着手する</span></div></div>\n          <div class=\"hi\"><div class=\"hi-icon\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 14 14\" fill=\"none\"><polyline points=\"2,9 5,5.5 8.5,8 12,3\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline></svg></div><div class=\"hi-text\"><strong>早め納品が最強</strong><br><span class=\"hi-sub\">1〜2日前に出すだけで評価UP</span></div></div>\n          <div class=\"hi\"><div class=\"hi-icon\"><svg width=\"12\" height=\"12\" viewBox=\"0 0 14 14\" fill=\"none\"><path d=\"M11.5 2H2.5C1.95 2 1.5 2.45 1.5 3V9c0 .55.45 1 1 1H5l2 2.5L9 10h2.5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1z\" stroke=\"#3D3D3D\" stroke-width=\"1.3\"></path></svg></div><div class=\"hi-text\"><strong>困ったら即報告</strong><br><span class=\"hi-sub\">遅れそうなら早めに連絡</span></div></div>\n        </div>\n      </div>\n    ",
+      "leftColText": "最初の同時受注の上限\n        \n          1〜2\n          案件まで\n          品質と納期を守ることを最優先にする段階。まずはこの範囲で実績を積む。\n        \n      \n      \n        \n          \n            \n              \n              \n            \n          \n          上限を守る理由\n        \n        \n          1本6〜8時間かかる段階では複数抱えると納期が崩壊しやすい\n          クオリティが落ちると評価が下がり継続依頼がこなくなる\n          信頼 ＞ 本数。1社を大切にする方が長期収益につながる",
+      "rightColText": "受注数と状態の目安（初期）\n        \n        \n          \n            1案件\n            学習しながらこなせる\n            BEST\n          \n          \n            2案件\n            スケジュール管理が必要\n            OK\n          \n          \n            3案件以上\n            納期・品質が崩れるリスク大\n            NG\n          \n        \n      \n      \n        \n          \n            \n              \n              \n            \n          \n          案件管理の基本ルール\n        \n        \n          納期を先に確認受注前に作業日数を逆算する\n          指示書は必ず再読2回読んでから着手する\n          早め納品が最強1〜2日前に出すだけで評価UP\n          困ったら即報告遅れそうなら早めに連絡",
+      "contentBlocks": [],
+      "footerText": "最初は1〜2案件まで。品質を守ることが継続案件と評価につながる。",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P13",
+    "slideNumber": 13,
+    "title": "最初に持つべき考え方①",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "心構え ①",
+      "slideSubtitle": "AIへの誤解と、落選・修正依頼への向き合い方",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [
+        {
+          "title": "それは失敗ではなく、正常なスタートです。",
+          "desc": "",
+          "icon": "<svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M2.5 8L6 11.5L13.5 4\" stroke=\"#3D3D3D\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n            </svg>"
+        }
+      ],
+      "leftCol": "\n      <div class=\"card\" style=\"border-color:#F0C0C0; flex:1; display:flex; flex-direction:column;\">\n        <div class=\"card-head\" style=\"background:#FFF4F4; border-bottom:1px solid #F0C0C0;\">\n          <div class=\"chi\" style=\"background:#F0C0C0;\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <rect x=\"2\" y=\"2\" width=\"12\" height=\"12\" rx=\"2.5\" stroke=\"#C8232C\" stroke-width=\"1.4\"></rect>\n              <path d=\"M8 5V8.5M8 10.5V11\" stroke=\"#C8232C\" stroke-width=\"1.8\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\" style=\"color:#C8232C;\">AIへの誤解を解く</div>\n        </div>\n        <div style=\"padding:12px 16px; display:flex; gap:12px; align-items:flex-start; flex:1; align-items:center;\">\n          <div class=\"mc-tag t-ng\">誤解</div>\n          <div>\n            <div class=\"mc-title\" style=\"color:#C8232C;\">AIに丸投げすれば楽に稼げる</div>\n            <div class=\"mc-desc\">「何もしなくていい」は大きな間違い。<br>品質が低く落選率が急上昇します。</div>\n          </div>\n        </div>\n      </div>\n      <div class=\"arr-down\" style=\"margin-top:4px; margin-bottom:4px;\">\n        <svg width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n          <path d=\"M10 4V16M4 11L10 17L16 11\" stroke=\"#C8232C\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        </svg>\n      </div>\n      <div class=\"card\" style=\"margin-top:8px; flex:1; display:flex; flex-direction:column;\">\n        <div class=\"card-head\" style=\"background:#F7F7F7; border-bottom:1px solid #E2E2E2;\">\n          <div class=\"chi\" style=\"background:#E2E2E2;\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M2.5 8L6 11.5L13.5 4\" stroke=\"#3D3D3D\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\" style=\"color:#1A1A1A;\">AIは「道具」。使いこなす人が勝つ</div>\n        </div>\n        <div style=\"padding:10px 16px; display:flex; flex-direction:column; gap:7px; flex:1; justify-content:center;\">\n          <div style=\"display:flex; gap:12px; align-items:center;\">\n            <div class=\"mc-tag t-ok\">現実</div>\n            <div class=\"mc-desc\">指示の精度・編集力・クライアント理解が成果を左右します。</div>\n          </div>\n          <div class=\"note-box\" style=\"margin:0;\">\n            <div class=\"note-text\">最初の台本はクオリティが低くて当然です。<br><strong style=\"color:#C8232C;\">それは失敗ではなく、正常なスタートです。</strong></div>\n          </div>\n        </div>\n      </div>\n    ",
+      "rightCol": "\n      <div class=\"dark-card\">\n        <div class=\"dark-head\">\n          <div class=\"dark-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 1.5L10 6.5H15L11 9.5L12.5 14.5L8 11.5L3.5 14.5L5 9.5L1 6.5H6L8 1.5Z\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"dark-head-title\">落選は当たり前。折れないことが最重要</div>\n        </div>\n        <div class=\"dark-body\">\n          <div class=\"rej-stat\">\n            <div class=\"rej-big\">最初の3件</div>\n            <div class=\"rej-desc\">は落選が当たり前</div>\n          </div>\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">落選・修正依頼は失敗ではなく台本の型を学ぶ材料</div></div>\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">キツいフィードバックも「クライアントの型」を知るチャンス</div></div>\n          <div class=\"ri\"><div class=\"ri-dot\"></div><div class=\"ri-text\">修正内容を蓄積すると次回以降の通過率が上がる</div></div>\n        </div>\n      </div>\n      <div class=\"card\" style=\"flex:1; display:flex; flex-direction:column;\">\n        <div class=\"card-head\">\n          <div class=\"chi\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 2C4.69 2 2 4.69 2 8c0 3.31 2.69 6 6 6 3.31 0 6-2.69 6-6\" stroke=\"#3D3D3D\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path>\n              <path d=\"M11.5 3.5L14 8L10 7\" stroke=\"#3D3D3D\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\">成長のサイクル</div>\n        </div>\n        <div class=\"cycle-body\">\n          <div class=\"ci\"><div class=\"ci-num\">01</div><div class=\"ci-text\">応募する → 落選・修正依頼をもらう</div></div>\n          <div class=\"ci\"><div class=\"ci-num\">02</div><div class=\"ci-text\">フィードバックを「型の材料」として記録する</div></div>\n          <div class=\"ci\"><div class=\"ci-num\">03</div><div class=\"ci-text\">次の台本に反映 → 通過率が少しずつ上がる</div></div>\n\n        </div>\n      </div>\n    ",
+      "leftColText": "AIへの誤解を解く\n        \n        \n          誤解\n          \n            AIに丸投げすれば楽に稼げる\n            「何もしなくていい」は大きな間違い。品質が低く落選率が急上昇します。\n          \n        \n      \n      \n        \n          \n        \n      \n      \n        \n          \n            \n              \n            \n          \n          AIは「道具」。使いこなす人が勝つ\n        \n        \n          \n            現実\n            指示の精度・編集力・クライアント理解が成果を左右します。\n          \n          \n            最初の台本はクオリティが低くて当然です。それは失敗ではなく、正常なスタートです。",
+      "rightColText": "落選は当たり前。折れないことが最重要\n        \n        \n          \n            最初の3件\n            は落選が当たり前\n          \n          落選・修正依頼は失敗ではなく台本の型を学ぶ材料\n          キツいフィードバックも「クライアントの型」を知るチャンス\n          修正内容を蓄積すると次回以降の通過率が上がる\n        \n      \n      \n        \n          \n            \n              \n              \n            \n          \n          成長のサイクル\n        \n        \n          01応募する → 落選・修正依頼をもらう\n          02フィードバックを「型の材料」として記録する\n          03次の台本に反映 → 通過率が少しずつ上がる",
+      "contentBlocks": [],
+      "footerText": "落選・修正依頼は成長の材料。折れずに続けた人だけが稼げるようになる。",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P14",
+    "slideNumber": 14,
+    "title": "心構え② 提出恐怖症",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "content-cards",
+    "data": {
+      "slideTitle": "心構え ②",
+      "slideSubtitle": "「提出恐怖症」への対処法",
+      "badge": "Ai-BOW AI School 2026",
+      "cards": [],
+      "leftCol": "\n      <div class=\"dark-card\">\n        <div class=\"dark-head\">\n          <div class=\"dark-head-icon\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <circle cx=\"8\" cy=\"8\" r=\"6.5\" stroke=\"#3D3D3D\" stroke-width=\"1.4\"></circle>\n              <path d=\"M8 5V9M8 10.5V11.5\" stroke=\"#3D3D3D\" stroke-width=\"1.8\" stroke-linecap=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"dark-head-title\">提出恐怖症とは？</div>\n        </div>\n        <div class=\"dark-body\">\n          <div class=\"def-kw\">提出恐怖症</div>\n          <div class=\"def-text\">「もっとよくしてから出そう」と思い続け、<br>結果としていつまでも提出できない状態のこと。</div>\n        </div>\n      </div>\n      <div class=\"card\" style=\"flex:1;\">\n        <div class=\"card-head\">\n          <div class=\"chi\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M8 2L10 7H15L11 10L12.5 15L8 12L3.5 15L5 10L1 7H6L8 2Z\" stroke=\"#3D3D3D\" stroke-width=\"1.4\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\">こんな症状が出たら要注意</div>\n        </div>\n        <div class=\"symp-body\">\n          <div class=\"sy\"><div class=\"sy-dot\"></div><div class=\"sy-text\">「あと少し直してから」が何時間も続く</div></div>\n          <div class=\"sy\"><div class=\"sy-dot\"></div><div class=\"sy-text\">「クオリティが低いから落選する」と思い込んで出せない</div></div>\n          <div class=\"sy\"><div class=\"sy-dot\"></div><div class=\"sy-text\">他の台本を見て自分の文章が嫌になる</div></div>\n          <div class=\"sy\"><div class=\"sy-dot\"></div><div class=\"sy-text\">修正が怖くて提出ボタンを押せない</div></div>\n        </div>\n      </div>\n    ",
+      "rightCol": "\n      <div class=\"card\" style=\"flex:1;\">\n        <div class=\"card-head\">\n          <div class=\"chi\">\n            <svg width=\"14\" height=\"14\" viewBox=\"0 0 16 16\" fill=\"none\">\n              <path d=\"M2.5 8L6 11.5L13.5 4\" stroke=\"#3D3D3D\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n            </svg>\n          </div>\n          <div class=\"cht\">対処の3ステップ</div>\n        </div>\n        <div class=\"method-body\">\n          <div class=\"mi\">\n            <div class=\"mi-num\">01</div>\n            <div><div class=\"mi-title\">「完成」の定義を決める</div><div class=\"mi-desc\">「文字数を満たしている」「指示書の条件を守っている」の<br>2つだけで提出OK</div></div>\n          </div>\n          <div class=\"mi\">\n            <div class=\"mi-num\">02</div>\n            <div><div class=\"mi-title\">タイマーを使う</div><div class=\"mi-desc\">見直しは最大30分まで。時間がきたら迷わず提出する。<br>それ以上は意味がない</div></div>\n          </div>\n          <div class=\"mi\">\n            <div class=\"mi-num\">03</div>\n            <div><div class=\"mi-title\">修正は「提出後」に学ぶ</div><div class=\"mi-desc\">提出後の修正依頼の方が、提出前の自己添削より<br>10倍有益な情報を含んでいる</div></div>\n          </div>\n        </div>\n      </div>\n      <div class=\"quote-card\">\n        <div class=\"quote-body\">\n          <div class=\"quote-mark\">\"</div>\n          <div>\n            <div class=\"quote-main\">出さない台本は、ゼロと同じ。</div>\n            <div class=\"quote-sub\">70点で出して修正をもらう方が、100点を目指して出さないより、<br>圧倒的に成長できる。</div>\n          </div>\n        </div>\n      </div>\n    ",
+      "leftColText": "提出恐怖症とは？\n        \n        \n          提出恐怖症\n          「もっとよくしてから出そう」と思い続け、結果としていつまでも提出できない状態のこと。\n        \n      \n      \n        \n          \n            \n              \n            \n          \n          こんな症状が出たら要注意\n        \n        \n          「あと少し直してから」が何時間も続く\n          「クオリティが低いから落選する」と思い込んで出せない\n          他の台本を見て自分の文章が嫌になる\n          修正が怖くて提出ボタンを押せない",
+      "rightColText": "対処の3ステップ\n        \n        \n          \n            01\n            「完成」の定義を決める「文字数を満たしている」「指示書の条件を守っている」の2つだけで提出OK\n          \n          \n            02\n            タイマーを使う見直しは最大30分まで。時間がきたら迷わず提出する。それ以上は意味がない\n          \n          \n            03\n            修正は「提出後」に学ぶ提出後の修正依頼の方が、提出前の自己添削より10倍有益な情報を含んでいる\n          \n        \n      \n      \n        \n          \"\n          \n            出さない台本は、ゼロと同じ。\n            70点で出して修正をもらう方が、100点を目指して出さないより、圧倒的に成長できる。",
+      "contentBlocks": [],
+      "footerText": "70点で出して修正をもらう方が、100点を目指して出さないより成長できる。",
+      "footerRight": "LESSON 1 ／ PHASE 01",
+      "footerIcon": null
+    }
+  },
+  {
+    "id": "P15",
+    "slideNumber": 15,
+    "title": "まとめ（LESSON 1）",
+    "chapter": "LESSON 1",
+    "phase": 1,
+    "type": "summary",
+    "data": {
+      "slideTitle": "まとめ",
+      "slideSubtitle": "YouTube台本市場とAIライターの可能性",
+      "leftCol": "\n      <div class=\"sec-head\"><div class=\"sec-lbl\">KEY POINTS</div><div class=\"sec-line\"></div></div>\n\n      <div class=\"pc\">\n        <div class=\"pc-accent\"></div>\n        <div class=\"pc-icon\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"none\"><polyline points=\"2,14 7,8 11,11 18,4\" stroke=\"#3D3D3D\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline><polyline points=\"14,4 18,4 18,8\" stroke=\"#3D3D3D\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></polyline></svg></div>\n        <div class=\"pc-body\"><div class=\"pc-main\">YouTube台本市場は今も需要がある</div><div class=\"pc-note\">スカッと系・ゆっくり解説・ノウハウ系の3ジャンルが初心者の入り口</div></div>\n      </div>\n\n      <div class=\"pc\">\n        <div class=\"pc-accent\"></div>\n        <div class=\"pc-icon\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"none\"><circle cx=\"10\" cy=\"10\" r=\"8\" stroke=\"#3D3D3D\" stroke-width=\"1.5\"></circle><path d=\"M10 6V10L13 13\" stroke=\"#3D3D3D\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path></svg></div>\n        <div class=\"pc-body\"><div class=\"pc-main\">最初から速く書けなくて普通</div><div class=\"pc-note\">1本6〜8時間は当然。Gemini活用＋型で2〜3時間へ短縮できる</div></div>\n      </div>\n\n      <div class=\"pc\">\n        <div class=\"pc-accent\"></div>\n        <div class=\"pc-icon\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"none\"><circle cx=\"10\" cy=\"7\" r=\"4\" stroke=\"#3D3D3D\" stroke-width=\"1.5\"></circle><path d=\"M2 18c0-4 3.58-7 8-7s8 3 8 7\" stroke=\"#3D3D3D\" stroke-width=\"1.5\" stroke-linecap=\"round\"></path></svg></div>\n        <div class=\"pc-body\"><div class=\"pc-main\">最初は低単価でも実績作りを優先する</div><div class=\"pc-note\">0.3〜0.5円からスタート。評価と実績を積んでから単価を上げる</div></div>\n      </div>\n\n      <div class=\"pc hl\">\n        <div class=\"pc-accent\"></div>\n        <div class=\"pc-icon\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"none\"><path d=\"M10 2L12 7.5H18L13.5 11L15.5 17L10 13.5L4.5 17L6.5 11L2 7.5H8L10 2Z\" stroke=\"#C8232C\" stroke-width=\"1.5\" stroke-linejoin=\"round\"></path></svg></div>\n        <div class=\"pc-body\"><div class=\"pc-main\">落選や修正は成長材料として受け止める</div><div class=\"pc-note\">最初の3件は落選が当たり前。折れずに続けた人だけが稼げる</div></div>\n      </div>\n\n      <div class=\"pc hl\">\n        <div class=\"pc-accent\"></div>\n        <div class=\"pc-icon\"><svg width=\"16\" height=\"16\" viewBox=\"0 0 20 20\" fill=\"none\"><path d=\"M4 10H16M12 5L17 10L12 15\" stroke=\"#C8232C\" stroke-width=\"1.8\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></div>\n        <div class=\"pc-body\"><div class=\"pc-main\">70点で出して修正をもらう方が成長できる</div><div class=\"pc-note\">提出恐怖症に陥らず「完成したら出す」を徹底する</div></div>\n      </div>\n    ",
+      "leftColText": "KEY POINTS\n\n      \n        \n        \n        YouTube台本市場は今も需要があるスカッと系・ゆっくり解説・ノウハウ系の3ジャンルが初心者の入り口\n      \n\n      \n        \n        \n        最初から速く書けなくて普通1本6〜8時間は当然。Gemini活用＋型で2〜3時間へ短縮できる\n      \n\n      \n        \n        \n        最初は低単価でも実績作りを優先する0.3〜0.5円からスタート。評価と実績を積んでから単価を上げる\n      \n\n      \n        \n        \n        落選や修正は成長材料として受け止める最初の3件は落選が当たり前。折れずに続けた人だけが稼げる\n      \n\n      \n        \n        \n        70点で出して修正をもらう方が成長できる提出恐怖症に陥らず「完成したら出す」を徹底する",
+      "rightCol": "\n      <div class=\"summary-card\">\n        <div class=\"sum-head\"><div class=\"sum-label\">CHAPTER SUMMARY</div></div>\n        <div class=\"sum-body\">\n          <div class=\"sum-heading\">理想より現実を先に<br>知ることが大切</div>\n          <div class=\"si\"><div class=\"si-dot\"></div><div class=\"si-text\">単価だけでなく修正・納期・<br>クライアントとの相性も重要</div></div>\n          <div class=\"si\"><div class=\"si-dot\"></div><div class=\"si-text\">AIは万能ではない。<br>使いこなす人のスキルが結果を決める</div></div>\n        </div>\n      </div>\n    ",
+      "rightColText": "CHAPTER SUMMARY\n        \n          理想より現実を先に知ることが大切\n          単価だけでなく修正・納期・クライアントとの相性も重要\n          AIは万能ではない。使いこなす人のスキルが結果を決める",
+      "summaryCards": [
+        {
+          "title": "",
+          "text": "CHAPTER SUMMARY\n        \n          理想より現実を先に知ることが大切\n          単価だけでなく修正・納期・クライアントとの相性も重要\n          AIは万能ではない。使いこなす人のスキルが結果を決める"
+        }
+      ],
+      "footerText": "LESSON 1完了 — 次は台本の構造と3ジャンルを深く学んでいきます。",
+      "footerRight": "LESSON 1 ／ PHASE 01"
+    }
+  }
+]

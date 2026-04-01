@@ -1,0 +1,157 @@
+{
+  "fps": 60,
+  "totalDurationFrames": 13352,
+  "totalDurationSeconds": "222.5",
+  "slides": [
+    {
+      "id": "P01",
+      "title": "表紙",
+      "type": "cover",
+      "chapter": null,
+      "fromFrame": 0,
+      "durationInFrames": 540,
+      "audioDurationMs": 7992,
+      "audioFile": "audio/P01.mp3"
+    },
+    {
+      "id": "P02",
+      "title": "このスクールで目指すゴール",
+      "type": "content-cards",
+      "chapter": null,
+      "fromFrame": 540,
+      "durationInFrames": 1083,
+      "audioDurationMs": 17040,
+      "audioFile": "audio/P02.mp3"
+    },
+    {
+      "id": "P03",
+      "title": "カリキュラム全体マップ",
+      "type": "content-cards",
+      "chapter": null,
+      "fromFrame": 1623,
+      "durationInFrames": 1220,
+      "audioDurationMs": 19320,
+      "audioFile": "audio/P03.mp3"
+    },
+    {
+      "id": "P04",
+      "title": "PHASE 1 区切り",
+      "type": "phase-divider",
+      "chapter": null,
+      "fromFrame": 2843,
+      "durationInFrames": 1185,
+      "audioDurationMs": 18744,
+      "audioFile": "audio/P04.mp3"
+    },
+    {
+      "id": "P05",
+      "title": "LESSON 1 章タイトル",
+      "type": "lesson-title",
+      "chapter": "LESSON 1",
+      "fromFrame": 4028,
+      "durationInFrames": 392,
+      "audioDurationMs": 5520,
+      "audioFile": "audio/P05.mp3"
+    },
+    {
+      "id": "P06",
+      "title": "この章で学ぶこと（NEW）",
+      "type": "learning-objectives",
+      "chapter": "LESSON 1",
+      "fromFrame": 4420,
+      "durationInFrames": 965,
+      "audioDurationMs": 15072,
+      "audioFile": "audio/P06.mp3"
+    },
+    {
+      "id": "P07",
+      "title": "YouTube台本市場の現状",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 5385,
+      "durationInFrames": 1221,
+      "audioDurationMs": 19344,
+      "audioFile": "audio/P07.mp3"
+    },
+    {
+      "id": "P08",
+      "title": "初心者が狙いやすい3ジャンル",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 6606,
+      "durationInFrames": 726,
+      "audioDurationMs": 11088,
+      "audioFile": "audio/P08.mp3"
+    },
+    {
+      "id": "P09",
+      "title": "単価・相場の実態",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 7332,
+      "durationInFrames": 873,
+      "audioDurationMs": 13536,
+      "audioFile": "audio/P09.mp3"
+    },
+    {
+      "id": "P10",
+      "title": "収益ロードマップ",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 8205,
+      "durationInFrames": 1152,
+      "audioDurationMs": 18192,
+      "audioFile": "audio/P10.mp3"
+    },
+    {
+      "id": "P11",
+      "title": "作業時間の現実",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 9357,
+      "durationInFrames": 599,
+      "audioDurationMs": 8976,
+      "audioFile": "audio/P11.mp3"
+    },
+    {
+      "id": "P12",
+      "title": "同時受注の上限と管理",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 9956,
+      "durationInFrames": 1083,
+      "audioDurationMs": 17040,
+      "audioFile": "audio/P12.mp3"
+    },
+    {
+      "id": "P13",
+      "title": "最初に持つべき考え方①",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 11039,
+      "durationInFrames": 909,
+      "audioDurationMs": 14136,
+      "audioFile": "audio/P13.mp3"
+    },
+    {
+      "id": "P14",
+      "title": "心構え② 提出恐怖症",
+      "type": "content-cards",
+      "chapter": "LESSON 1",
+      "fromFrame": 11948,
+      "durationInFrames": 775,
+      "audioDurationMs": 11904,
+      "audioFile": "audio/P14.mp3"
+    },
+    {
+      "id": "P15",
+      "title": "まとめ（LESSON 1）",
+      "type": "summary",
+      "chapter": "LESSON 1",
+      "fromFrame": 12723,
+      "durationInFrames": 629,
+      "audioDurationMs": 9480,
+      "audioFile": "audio/P15.mp3"
+    }
+  ]
+}

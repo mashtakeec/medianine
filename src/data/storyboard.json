@@ -1,0 +1,583 @@
+{
+  "P01": {
+    "title": "表紙",
+    "type": "cover",
+    "audioDurationMs": 7992,
+    "steps": [
+      {
+        "selector": ".title-ja",
+        "label": "メインタイトル",
+        "narration": "AIライティングで YouTube台本案件を 獲得する。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".subtitle",
+        "label": "サブタイトル",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 4303,
+        "startFrame": 258
+      },
+      {
+        "selector": ".title-en",
+        "label": "英語タイトル",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 6148,
+        "startFrame": 369
+      }
+    ]
+  },
+  "P02": {
+    "title": "このスクールで目指すゴール",
+    "type": "content-cards",
+    "audioDurationMs": 17040,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI School 2026のゴールを紹介します。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".cards-area > :nth-child(1)",
+        "label": "STEP 01 知識インプット",
+        "narration": "STEP 01では知識をインプットします。",
+        "startMs": 4912,
+        "startFrame": 295
+      },
+      {
+        "selector": ".cards-area > :nth-child(3)",
+        "label": "STEP 02 制作スキル",
+        "narration": "STEP 02で制作スキルを身につけます。",
+        "startMs": 8136,
+        "startFrame": 488
+      },
+      {
+        "selector": ".cards-area > :nth-child(5)",
+        "label": "STEP 03 案件獲得",
+        "narration": "STEP 03で案件を獲得し収益化します。",
+        "startMs": 11360,
+        "startFrame": 682
+      },
+      {
+        "selector": ".goal-banner",
+        "label": "ゴールバナー",
+        "narration": "最終ゴールは安定収益の実現です。",
+        "startMs": 14584,
+        "startFrame": 875
+      }
+    ]
+  },
+  "P03": {
+    "title": "カリキュラム全体マップ",
+    "type": "content-cards",
+    "audioDurationMs": 19320,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI School 2026の全体マップです。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".phases .phase-col.ph1",
+        "label": "PHASE 01",
+        "narration": "PHASE 01では知識をインプットします。",
+        "startMs": 4493,
+        "startFrame": 270
+      },
+      {
+        "selector": ".phases .phase-col.ph2",
+        "label": "PHASE 02",
+        "narration": "PHASE 02では制作スキルを習得します。",
+        "startMs": 7788,
+        "startFrame": 467
+      },
+      {
+        "selector": ".phases .phase-col.ph3",
+        "label": "PHASE 03",
+        "narration": "PHASE 03では実践と応募を行います。",
+        "startMs": 11083,
+        "startFrame": 665
+      },
+      {
+        "selector": ".phases .phase-col.ph4",
+        "label": "PHASE 04",
+        "narration": "PHASE 04では収益化を目指します。",
+        "startMs": 14228,
+        "startFrame": 854
+      },
+      {
+        "selector": ".goal-banner",
+        "label": "ゴールバナー",
+        "narration": "ゴールは安定収益の実現です。",
+        "startMs": 17223,
+        "startFrame": 1033
+      }
+    ]
+  },
+  "P04": {
+    "title": "PHASE 1 区切り",
+    "type": "phase-divider",
+    "audioDurationMs": 18744,
+    "steps": [
+      {
+        "selector": ".left-panel",
+        "label": "PHASE 1 タイトル",
+        "narration": "PHASE 01では知識をインプットします。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".right-panel .right-heading",
+        "label": "THIS PHASE COVERS",
+        "narration": "このフェーズの内容をご紹介します。",
+        "startMs": 3818,
+        "startFrame": 229
+      },
+      {
+        "selector": ".right-panel > :nth-child(2)",
+        "label": "ポイント01",
+        "narration": "市場や収益の現実を把握します。",
+        "startMs": 6769,
+        "startFrame": 406
+      },
+      {
+        "selector": ".right-panel > :nth-child(3)",
+        "label": "ポイント02",
+        "narration": "台本の3大パーツを理解します。",
+        "startMs": 9372,
+        "startFrame": 562
+      },
+      {
+        "selector": ".right-panel > :nth-child(4)",
+        "label": "ポイント03",
+        "narration": "ジャンルごとの書き分け方を学びます。",
+        "startMs": 11975,
+        "startFrame": 719
+      },
+      {
+        "selector": ".right-panel > :nth-child(5)",
+        "label": "ポイント04",
+        "narration": "AIライターとしての心構えを身につけます。",
+        "startMs": 15099,
+        "startFrame": 906
+      }
+    ]
+  },
+  "P05": {
+    "title": "LESSON 1 章タイトル",
+    "type": "lesson-title",
+    "audioDurationMs": 5520,
+    "steps": [
+      {
+        "selector": ".title-ja",
+        "label": "章タイトル",
+        "narration": "YouTube台本市場と AIライターの可能性です。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".subtitle",
+        "label": "サブタイトル",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 3777,
+        "startFrame": 227
+      }
+    ]
+  },
+  "P06": {
+    "title": "この章で学ぶこと（NEW）",
+    "type": "learning-objectives",
+    "audioDurationMs": 15072,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "この章で学ぶことを紹介します。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area > :nth-child(1)",
+        "label": "項目1 市場の現状",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 2599,
+        "startFrame": 156
+      },
+      {
+        "selector": ".content-area > :nth-child(2)",
+        "label": "項目2 単価・相場",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 4678,
+        "startFrame": 281
+      },
+      {
+        "selector": ".content-area > :nth-child(3)",
+        "label": "項目3 収益ロードマップ",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 6756,
+        "startFrame": 405
+      },
+      {
+        "selector": ".content-area > :nth-child(4)",
+        "label": "項目4 作業時間",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 8835,
+        "startFrame": 530
+      },
+      {
+        "selector": ".content-area > :nth-child(5)",
+        "label": "項目5 心構え",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 10914,
+        "startFrame": 655
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 12993,
+        "startFrame": 780
+      }
+    ]
+  },
+  "P07": {
+    "title": "YouTube台本市場の現状",
+    "type": "content-cards",
+    "audioDurationMs": 19344,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "YouTube台本市場の現状を見ていきます。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area > :nth-child(1)",
+        "label": "理由01 動画投稿本数の増加",
+        "narration": "動画投稿本数が増加し、台本需要が急増。",
+        "startMs": 3977,
+        "startFrame": 239
+      },
+      {
+        "selector": ".content-area > :nth-child(2)",
+        "label": "理由02 外注文化の拡大",
+        "narration": "外注文化が拡大し、専門ライターが必要です。",
+        "startMs": 7412,
+        "startFrame": 445
+      },
+      {
+        "selector": ".content-area > :nth-child(3)",
+        "label": "理由03 AI活用",
+        "narration": "AI活用で、高品質な台本を低コストで提供。",
+        "startMs": 11209,
+        "startFrame": 673
+      },
+      {
+        "selector": ".summary-banner",
+        "label": "まとめバナー",
+        "narration": "これらの要因で、台本ライターの需要は増加します。",
+        "startMs": 15005,
+        "startFrame": 900
+      }
+    ]
+  },
+  "P08": {
+    "title": "初心者が狙いやすい3ジャンル",
+    "type": "content-cards",
+    "audioDurationMs": 11088,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI School 2026の紹介です。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".cards-area > :nth-child(1)",
+        "label": "スカッと系",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 3992,
+        "startFrame": 240
+      },
+      {
+        "selector": ".cards-area > :nth-child(2)",
+        "label": "ゆっくり解説",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 5766,
+        "startFrame": 346
+      },
+      {
+        "selector": ".cards-area > :nth-child(3)",
+        "label": "一人語り",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 7540,
+        "startFrame": 452
+      },
+      {
+        "selector": ".bottom-banner",
+        "label": "バナー",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 9314,
+        "startFrame": 559
+      }
+    ]
+  },
+  "P09": {
+    "title": "単価・相場の実態",
+    "type": "content-cards",
+    "audioDurationMs": 13536,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI School 2026の概要です。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "単価カード",
+        "narration": "各種動画台本の単価例を示します。",
+        "startMs": 4403,
+        "startFrame": 264
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "文字単価比較チャート",
+        "narration": "ジャンル別の文字単価を比較しています。",
+        "startMs": 7013,
+        "startFrame": 421
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "実績を積み重ねて単価UPを目指しましょう。",
+        "startMs": 10111,
+        "startFrame": 607
+      }
+    ]
+  },
+  "P10": {
+    "title": "収益ロードマップ",
+    "type": "content-cards",
+    "audioDurationMs": 18192,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI Schoolの収益ロードマップです。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area > :nth-child(1)",
+        "label": "STEP 01 実績をつくる",
+        "narration": "初期段階では実績を作り、稼げる体験を。",
+        "startMs": 4673,
+        "startFrame": 280
+      },
+      {
+        "selector": ".content-area > :nth-child(3)",
+        "label": "STEP 02 型を身につける",
+        "narration": "中期には型を身につけ、安定収入を目指します。",
+        "startMs": 7844,
+        "startFrame": 471
+      },
+      {
+        "selector": ".content-area > :nth-child(5)",
+        "label": "STEP 03 単価を上げる",
+        "narration": "安定期に入ったら単価を上げ、高収入を。",
+        "startMs": 11516,
+        "startFrame": 691
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "実績を優先し、信頼を築いてから単価を調整。",
+        "startMs": 14687,
+        "startFrame": 881
+      }
+    ]
+  },
+  "P11": {
+    "title": "作業時間の現実",
+    "type": "content-cards",
+    "audioDurationMs": 8976,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI School 2026の内容です。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "作業時間の比較",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 3847,
+        "startFrame": 231
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "1日の作業ペース",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 5557,
+        "startFrame": 333
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "続きを見ていきましょう。",
+        "startMs": 7266,
+        "startFrame": 436
+      }
+    ]
+  },
+  "P12": {
+    "title": "同時受注の上限と管理",
+    "type": "content-cards",
+    "audioDurationMs": 17040,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "品質と信頼を守るために、抱えすぎないことが重要です。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "同時受注の考え方",
+        "narration": "最初は1〜2案件の範囲で実績を積みましょう。",
+        "startMs": 4764,
+        "startFrame": 286
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "管理のポイント",
+        "narration": "納期を確認し、管理を徹底することが大切です。",
+        "startMs": 8795,
+        "startFrame": 528
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "1〜2案件を守ることで、継続依頼が得られます。",
+        "startMs": 12826,
+        "startFrame": 770
+      }
+    ]
+  },
+  "P13": {
+    "title": "最初に持つべき考え方①",
+    "type": "content-cards",
+    "audioDurationMs": 14136,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "AI School 2026の心構えについてです。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "AIへの誤解と現実",
+        "narration": "AIは道具。使いこなす力が重要です。",
+        "startMs": 4158,
+        "startFrame": 249
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "落選・修正への向き合い方",
+        "narration": "落選は成長の一部。諦めずに学び続けましょう。",
+        "startMs": 7151,
+        "startFrame": 429
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "続けた者が成長し、稼げるようになります。",
+        "startMs": 10810,
+        "startFrame": 649
+      }
+    ]
+  },
+  "P14": {
+    "title": "心構え② 提出恐怖症",
+    "type": "content-cards",
+    "audioDurationMs": 11904,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "今回は「提出恐怖症」についてです。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "提出恐怖症の症状",
+        "narration": "提出恐怖症は、提出できない状態を指します。",
+        "startMs": 3066,
+        "startFrame": 184
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "対処法",
+        "narration": "3つの対処法を紹介します。",
+        "startMs": 6854,
+        "startFrame": 411
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "まずは70点で提出しましょう。",
+        "startMs": 9199,
+        "startFrame": 552
+      }
+    ]
+  },
+  "P15": {
+    "title": "まとめ（LESSON 1）",
+    "type": "summary",
+    "audioDurationMs": 9480,
+    "steps": [
+      {
+        "selector": ".header",
+        "label": "ヘッダー",
+        "narration": "Ai-BOW AI Schoolのまとめです。",
+        "startMs": 0,
+        "startFrame": 0
+      },
+      {
+        "selector": ".content-area .left-col",
+        "label": "KEY POINTS",
+        "narration": "YouTube台本市場は需要があります。",
+        "startMs": 3028,
+        "startFrame": 182
+      },
+      {
+        "selector": ".content-area .right-col",
+        "label": "CHAPTER SUMMARY",
+        "narration": "現実を知ることが重要です。",
+        "startMs": 5662,
+        "startFrame": 340
+      },
+      {
+        "selector": ".footer-banner",
+        "label": "フッター",
+        "narration": "LESSON 1が完了しました。",
+        "startMs": 7373,
+        "startFrame": 442
+      }
+    ]
+  }
+}

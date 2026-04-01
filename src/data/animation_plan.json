@@ -1,0 +1,296 @@
+{
+  "P01": [
+    {
+      "selector": ".title-ja",
+      "label": "タイトル"
+    },
+    {
+      "selector": ".subtitle",
+      "label": "サブタイトル"
+    },
+    {
+      "selector": ".title-en",
+      "label": "英語タイトル"
+    }
+  ],
+  "P02": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".card:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".card:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".card:nth-child(3)",
+      "label": "カード3"
+    }
+  ],
+  "P03": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".phases > *:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".phases > *:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".phases > *:nth-child(3)",
+      "label": "カード3"
+    },
+    {
+      "selector": ".phases > *:nth-child(4)",
+      "label": "カード4"
+    }
+  ],
+  "P04": [
+    {
+      "selector": ".point-card:nth-of-type(1)",
+      "label": "ポイント1"
+    },
+    {
+      "selector": ".point-card:nth-of-type(2)",
+      "label": "ポイント2"
+    },
+    {
+      "selector": ".point-card:nth-of-type(3)",
+      "label": "ポイント3"
+    },
+    {
+      "selector": ".point-card:nth-of-type(4)",
+      "label": "ポイント4"
+    }
+  ],
+  "P05": [
+    {
+      "selector": ".title-ja",
+      "label": "タイトル"
+    },
+    {
+      "selector": ".subtitle",
+      "label": "サブタイトル"
+    }
+  ],
+  "P06": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".item-card:nth-child(1)",
+      "label": "アイテム1"
+    },
+    {
+      "selector": ".item-card:nth-child(2)",
+      "label": "アイテム2"
+    },
+    {
+      "selector": ".item-card:nth-child(3)",
+      "label": "アイテム3"
+    },
+    {
+      "selector": ".item-card:nth-child(4)",
+      "label": "アイテム4"
+    },
+    {
+      "selector": ".item-card:nth-child(5)",
+      "label": "アイテム5"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ],
+  "P07": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".reason-card:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".reason-card:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".reason-card:nth-child(3)",
+      "label": "カード3"
+    }
+  ],
+  "P08": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".cards-area > *:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".cards-area > *:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".cards-area > *:nth-child(3)",
+      "label": "カード3"
+    },
+    {
+      "selector": ".bottom-banner",
+      "label": "バナー"
+    }
+  ],
+  "P09": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".left-col",
+      "label": "左カラム"
+    },
+    {
+      "selector": ".right-col",
+      "label": "右カラム"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P10": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".content-area > *:nth-child(1)",
+      "label": "コンテンツ1"
+    },
+    {
+      "selector": ".content-area > *:nth-child(2)",
+      "label": "コンテンツ2"
+    },
+    {
+      "selector": ".content-area > *:nth-child(3)",
+      "label": "コンテンツ3"
+    },
+    {
+      "selector": ".content-area > *:nth-child(4)",
+      "label": "コンテンツ4"
+    },
+    {
+      "selector": ".content-area > *:nth-child(5)",
+      "label": "コンテンツ5"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P11": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".left-col",
+      "label": "左カラム"
+    },
+    {
+      "selector": ".right-col",
+      "label": "右カラム"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P12": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".left-col",
+      "label": "左カラム"
+    },
+    {
+      "selector": ".right-col",
+      "label": "右カラム"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P13": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".card:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".card:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".card:nth-child(3)",
+      "label": "カード3"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P14": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".card:nth-child(1)",
+      "label": "カード1"
+    },
+    {
+      "selector": ".card:nth-child(2)",
+      "label": "カード2"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "バナー"
+    }
+  ],
+  "P15": [
+    {
+      "selector": ".header",
+      "label": "ヘッダー"
+    },
+    {
+      "selector": ".left-col",
+      "label": "キーポイント"
+    },
+    {
+      "selector": ".right-col",
+      "label": "サマリー"
+    },
+    {
+      "selector": ".footer-banner",
+      "label": "フッター"
+    }
+  ]
+}
